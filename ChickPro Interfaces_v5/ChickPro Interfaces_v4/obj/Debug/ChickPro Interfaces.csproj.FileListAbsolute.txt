@@ -1,0 +1,372 @@
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\bin\Debug\ChickPro Interfaces.exe.config
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\bin\Debug\ChickPro Interfaces.exe
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\bin\Debug\ChickPro Interfaces.pdb
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro Interfaces.exe
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro Interfaces.pdb
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\bin\Debug\ChickPro Interfaces.exe.config
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\bin\Debug\ChickPro Interfaces.exe
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\bin\Debug\ChickPro Interfaces.pdb
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.exe
+C:\Users\Paulr\Downloads\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.pdb
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.exe
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\Quinto Semestre\Aplicaciones en ambientes propietarios\Segundo bimestre\Proyecto\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.pdb
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.exe
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\obj\Debug\ChickPro Interfaces.pdb
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\bin\Debug\ChickPro Interfaces.exe.config
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\bin\Debug\ChickPro Interfaces.exe
+C:\Users\windows evolution\OneDrive - Escuela Politécnica Nacional\Escritorio\ChickPro Interfaces_v2\bin\Debug\ChickPro Interfaces.pdb
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe.config
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.pdb
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Admin_Sistema.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.exe
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.pdb
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.asignar_login.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.resetear_desbloquear.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe.config
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.pdb
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Admin_Sistema.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.asignar_login.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.resetear_desbloquear.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.exe
+C:\Users\Paulr\Documents\ChickPro Interfaces_v4\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.pdb
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe.config
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.pdb
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Admin_Sistema.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.asignar_login.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.resetear_desbloquear.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.exe
+C:\Users\Paulr\Documents\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.pdb
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe.config
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.pdb
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Admin_Sistema.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.asignar_login.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.resetear_desbloquear.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.exe
+C:\Users\Asus\Documents\QUINTO_SEMESTRE\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.pdb
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe.config
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.pdb
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csprojAssemblyReference.cache
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Admin_Sistema.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.asignar_login.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.resetear_desbloquear.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.cache
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.exe
+C:\Users\Paulr\Desktop\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.pdb
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe.config
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.exe
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.pdb
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.exe
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\bin\Debug\ChickPro Interfaces.pdb
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csprojResolveAssemblyReference.cache
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Actualizar_Galponero.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Admin_Sistema.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.asignar_login.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarExperimento.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarPollos.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.buscarSaludPollos.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_consumo_alimento.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Buscar_Galponero.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.DarDeAlataGalponero.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Estado_Experimento.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresomodulo2.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_Experimento.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoMódulos.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.ingresoSistemaChickPro.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Modificar_galpon.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_envio.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_buscar_mortalidad.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_crianza.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Mostrar_detalle_experimento.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Properties.Resources.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Alimento.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Cantidad_de_Pollos.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_de_Experimento.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Envio_de_Pollos.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Galponero.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_Lote_de_Pollos.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Registro_saco_galpon.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Reparticion_Porciones_Adecuadas.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.resetear_desbloquear.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.saludPollo.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro_Interfaces.Salud_Pollos.resources
+D:\Semestres\Quinto\Propietarios\ChickProPrototipoAhorasi\ChickPro Interfaces_v5\ChickPro Interfaces_v4\obj\Debug\ChickPro Interfaces.csproj.GenerateResource.Cache
